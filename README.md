@@ -9,5 +9,5 @@ There are two parts:
 NOTE: There is a good chance that the original app is still running here:
 http://asec16.cfapps.io/
 
- * In part 2 we get an introduction to dealing with API's through some publicly available ones as well as the XtremIO API. The goal is to get a bit hands-on with DevOps, particularly its focus on automation
+ * In part 2 (Lab 4 and Lab5) we get an introduction to dealing with API's through some publicly available ones as well as the XtremIO API. The goal is to get a bit hands-on with DevOps, particularly its focus on automation
 
